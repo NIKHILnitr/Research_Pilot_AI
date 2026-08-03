@@ -10,6 +10,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+**Live App:** https://researchpilotai-5mpt3dszq2nbj8wbp3um8d.streamlit.app/
+
+**GitHub:** https://github.com/NIKHILnitr/Research_Pilot_AI
+
 ## 🚀 Overview
 
 ResearchPilot is an AI-powered assistant that helps users quickly understand research papers.
